@@ -1,0 +1,11 @@
+FarmForge.Api/FarmForge.Api/appsettings.Development.json
+FarmForge.Api/FarmForge.Api/appsettings.json
+FarmForge.Api/FarmForge.Api/FarmForge.db
+FarmForge.Api/FarmForge.Api/.vs/
+FarmForge.Api/FarmForge.Api/bin/
+FarmForge.Api/FarmForge.Api/obj/
+FarmForge.Api/FarmForge.DataModel/bin/
+FarmForge.Api/FarmForge.DataModel/obj/
+FarmForge.Api/FarmForge.Migrations/bin/
+FarmForge.Api/FarmForge.Migrations/obj/
+FarmForge.Api/FarmForge.Api/FarmForge.Api.csproj.user
