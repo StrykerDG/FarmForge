@@ -5,6 +5,8 @@
     <UserSecretsId>e8dabc20-a326-4dcd-bbe4-df227252687f</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
+    <!--The line below must be uncommented if building for the raspberry pi.-->
+    <!--<RuntimeIdentifier>win8-arm</RuntimeIdentifier>-->
   </PropertyGroup>
 
   <ItemGroup>

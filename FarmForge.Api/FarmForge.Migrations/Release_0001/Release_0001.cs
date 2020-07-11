@@ -39,6 +39,7 @@ namespace FarmForge.Migrations.Release_0001
             Create.Table("Telemetry")
                 .WithId("TelemetryId")
                 .WithColumn("InterfaceId").AsInt32().NotNullable()
+                .WithColumn("TimeStamp").AsDateTime().NotNullable()
                 .WithColumn("Value").AsDouble().Nullable()
                 .WithColumn("StringValue").AsString(255).Nullable()
                 .WithColumn("BoolValue").AsBoolean().Nullable()
